@@ -1,4 +1,4 @@
-![](media/34f87383e00f8ffe354dfb3fb1c9af5b.png)
+![](https://github.com/kbpavan/Splitwise-concept-database-Implemetation/blob/master/Images/1.png)
 
 This database implementation is inspired by the splitwise expenses sharing
 android/ios application. We created a working prototype of database that can be
@@ -10,10 +10,11 @@ This project majorly involves 2 steps
 
 2.  DATABASE DESIGN
 
-In Database planning step our aim is decide on our mission statement, objectives
+In Database planning step our aim is to decide on our mission statement, objectives
 and standards for development.
 
 DATABASE PLANNING
+===============================
 
 1.  **MISSION STATEMENT**
 
@@ -71,10 +72,11 @@ To report the monthly transaction of a particular group.
     done by lender only.
 
 DATABASE DESIGN
+=========================
 
 Database Design involves creating business rules and ERD diagram.
 
-1.  **BUSINESS RULES**
+**BUSINESS RULES**
 
 ShareBills is a database where transactions of all shared expenses between users
 is stored.
@@ -115,6 +117,6 @@ is stored.
     id, Lender id along with the transaction group id, transaction date,
     transaction amount, and a transaction comment are also kept in the database.
 
-1.  **ERD DIAGRAM**
+**ERD DIAGRAM**
 
-![](media/8c07e84ec5a15aa44c53423737f7f73a.jpg)
+![](https://github.com/kbpavan/Splitwise-concept-database-Implemetation/blob/master/Images/2.jpg)
