@@ -120,3 +120,5 @@ is stored.
 **ERD DIAGRAM**
 
 ![](https://github.com/kbpavan/Splitwise-concept-database-Implemetation/blob/master/Images/2.jpg)
+
+Please refer to the follwing project report document for more details: https://github.com/kbpavan/Splitwise-concept-database-Implemetation/blob/master/Project%20technical%20overview.docx
