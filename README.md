@@ -1,4 +1,4 @@
- ![](https://github.com/kbpavan/Splitwise-concept-database-Implemetation/blob/master/Images/1.png)
+ ![](Images/1.png)
 
 This database implementation is inspired by the splitwise expenses sharing
 android/ios application. We created a working prototype of database that can be
