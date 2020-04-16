@@ -16,13 +16,13 @@ and standards for development.
 DATABASE PLANNING
 ===============================
 
-1.  **MISSION STATEMENT**
+# **MISSION STATEMENT**
 
 Sharebill's mission is to make shared living and travel easier by providing
 neutral advice, fair judgement, and simplified expense sharing through Database
 management system.
 
-1.  **MISSION OBJECTIVES**
+# **MISSION OBJECTIVES**
 
 To maintain (INSERT, UPDATE, DELETE) DATA ON USERS
 
@@ -54,7 +54,7 @@ To track status of transactions of Group members
 
 To report the monthly transaction of a particular group.
 
-1.  **STANDARDS DEVELOPMENT**
+# **STANDARDS DEVELOPMENT**
 
 2.  The user should be a sharebills account holder
 
@@ -76,7 +76,7 @@ DATABASE DESIGN
 
 Database Design involves creating business rules and ERD diagram.
 
-**BUSINESS RULES**
+# **BUSINESS RULES**
 
 ShareBills is a database where transactions of all shared expenses between users
 is stored.
@@ -117,6 +117,6 @@ is stored.
     id, Lender id along with the transaction group id, transaction date,
     transaction amount, and a transaction comment are also kept in the database.
 
-**ERD DIAGRAM**
+# **ERD DIAGRAM**
 
 ![](https://github.com/kbpavan/Splitwise-concept-database-Implemetation/blob/master/Images/2.jpg)
